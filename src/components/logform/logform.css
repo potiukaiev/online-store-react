@@ -1,0 +1,27 @@
+.log-form {
+    color: #AAA;
+    font-size: 12px;
+    width: 160px;
+}
+
+.log-form p {
+    margin: 0;
+}
+
+.reg-link {
+    color: #AAA
+}
+
+.reg-button-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.reg-button-wrapper button{
+    background-color: transparent;
+    border: none;
+    color: #AAA;
+    padding: 0;
+    font-size: 12px;
+    cursor: pointer;
+}

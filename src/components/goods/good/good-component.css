@@ -1,0 +1,26 @@
+.good-wrapper {
+    border: 2px solid #AAA;
+    padding: 10px;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px 0;
+	justify-content: space-between
+}
+.button-wrapper{
+	padding-bottom: 20px
+}
+
+.good-wrapper img {
+    max-width: 100%;
+    width: auto;
+    border: 2px solid #aaa ;
+}
+
+.good-button{
+    background-color: #4C9141;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}

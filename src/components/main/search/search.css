@@ -1,0 +1,51 @@
+.Search {
+	width: 30%;
+	padding-top: 50px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+}
+
+.Search-input {
+	width: 75%;
+	height: 30px;
+	border: 2px solid black;
+	border-right: none;
+	outline: none;
+	font-size: 18px;
+	text-align: center;
+}
+
+.Search-button {
+	width: 120px;
+	height: 36px;
+
+	color: #AAA;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: black;
+	
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+.Search-button:hover {
+	color: #4C9141;
+}
+
+:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+
+:focus::-moz-placeholder {
+    color: transparent;
+}
+
+:focus:-moz-placeholder {
+    color: transparent;
+}
+
+:focus:-ms-input-placeholder {
+    color: transparent;
+}

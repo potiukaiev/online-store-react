@@ -1,0 +1,45 @@
+.ad-creator {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.ad-creator p{
+    margin: 20px 0 0 0;
+	color: #4C9141;
+	font-size: 20px;
+	font-weight: bold
+}
+
+.ad-creator textarea {
+	width: 600px;
+}
+
+.ad-creator-input {
+	width: 400px;
+}
+
+.ad-creator button {
+	border: none;
+	background-color: black;
+	width: 300px;
+	height: 30px;
+	color: #AAA;
+	font-size: 16px;
+	font-weight: bold
+}
+
+.ad-creator button:hover {
+	color: #4C9141;
+	cursor: pointer;
+}
+
+form button{
+	width: 200px;
+	display: flex;
+	flex-direction: column
+}
+
+.ad-creator form input {
+	border: 1px solid gray;
+}

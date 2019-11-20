@@ -1,0 +1,35 @@
+.Nav-bar-wrapper {
+	color: #AAA;
+
+	display: flex;
+	align-items: center;
+}
+
+
+.Nav-item {
+	padding-left: 50px;
+	text-decoration: none;
+	color: #AAA;
+	font-size: 16px;
+	font-weight: bold
+}
+
+.log-form {
+	padding-left: 50px;
+}
+
+.Nav-item:hover {
+	color: #4C9141;
+}
+
+.log-out-button{
+	background-color: transparent;
+	border: none;
+	color: #4C9141;
+	padding: 0;
+	font-size: 16px;
+	font-weight: bold;
+	cursor: pointer;
+	padding-left: 50px;
+	outline: none;
+}

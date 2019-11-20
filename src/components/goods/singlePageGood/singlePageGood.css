@@ -1,0 +1,28 @@
+.single-good {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.single-good img {
+	max-width: 50%;
+	width: auto;
+}
+
+.description {
+    width: 50%;
+    text-align: center;
+}
+
+.price {
+    color: #4C9141;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.author-info-wrapper {
+	display: flex;
+	justify-content: space-between;
+	max-width: 50%;
+	width: 500px
+}

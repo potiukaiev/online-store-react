@@ -1,0 +1,13 @@
+.Logo-wrapper {
+		display: flex;
+		color: green;
+	}
+.Logo-wrapper a {
+	display: flex;
+	color: #AAA;
+	text-decoration: none;
+}
+.Logo-img {
+		width: 70px;
+		heigth: 50px;
+}
